@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+<sim>
+    <model>
+			<livery>
+				<name type="string">Azul #SennaSempre</name>
+				<texture>/../Models/Liveries/ERJ195/AzulSennaSempre.png</texture>
+			</livery>
+    </model>
+</sim>
+</PropertyList>
